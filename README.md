@@ -13,7 +13,6 @@ This project is a 3D simulation of our solar system, offering an interactive exp
 - 3D representation of the solar system
 - Sun, planets, comets, and the moon included
 - Interactive orbit following by clicking on celestial objects
-- [Add any other features here]
 
 ## How to Use
 
